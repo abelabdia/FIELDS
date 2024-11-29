@@ -120,12 +120,13 @@ body {
   }
   
   /* Footer */
-  footer {
-    background-color: #006f3c;
-    color: white;
-    text-align: center;
-    padding: 15px;
-    margin-top: 20px;
-    font-size: 0.9em;
-  }
-  
+footer {
+  background-color: #1d3557;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+footer p {
+  margin: 0;
+}
